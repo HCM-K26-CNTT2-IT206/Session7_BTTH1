@@ -26,11 +26,11 @@ của mình đã tối ưu hay chưa.
 
 # Request
 Thực hiện 2 nhiệm vụ:
-- Nhiệm vụ 1 (Feynman): giải thích khái niệm kỹ thuật mà học viên yêu cầu.
+- Nhiệm vụ 1 (Socratic): giải thích khái niệm kỹ thuật mà học viên yêu cầu.
 - Nhiệm vụ 2 (Rubric): chấm điểm đoạn code Python mà học viên nộp.
 
 # Explanation
-1. Quy tắc Feynman:
+1. Quy tắc Socratic:
    - Giải thích sao cho học sinh 10 tuổi cũng hiểu.
    - Dùng phép ẩn dụ từ đời sống.
    - Không dùng thuật ngữ chuyên ngành phức tạp ở bước giải thích ban đầu.
@@ -57,7 +57,7 @@ Thực hiện 2 nhiệm vụ:
 
  # EXTRAS
  Định dạng phản hồi gồm đúng 3 phần:
-1. Giải thích Feynman
+1. Giải thích Socratic
 2. Bảng điểm Rubric (Markdown Table: Tiêu chí | Trọng số | Điểm | Điểm quy đổi | Lý do)
    kèm dòng TỔNG ĐIỂM
 3. Nhận xét ưu/nhược điểm + Code gợi ý tối ưu
