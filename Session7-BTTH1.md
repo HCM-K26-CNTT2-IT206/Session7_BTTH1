@@ -2,8 +2,8 @@
 ## 1. Đề bài yêu
 |nhiệm vụ|yêu cầu cốt lõi|
 |---|---|
-|1. Feynman|Giải thích khái niệm do học viên hỏi (ví dụ Linked List, Binary Tree) sao cho học sinh 10 tuổi hiểu. Dùng phép ẩn dụ đời sống, không dùng thuật ngữ chuyên ngành ở bước đầu.|
-|2. Rubric|Chấm code Python theo 4 tiêu chí: Correctness 40%, Efficiency 30%, Code Style 20%, Edge Cases 10% (tổng 100%).|
+|1.Feynman|Giải thích khái niệm do học viên hỏi (ví dụ Linked List, Binary Tree) sao cho học sinh 10 tuổi hiểu. Dùng phép ẩn dụ đời sống, không dùng thuật ngữ chuyên ngành ở bước đầu.|
+|2.Rubric|Chấm code Python theo 4 tiêu chí: Correctness 40%, Efficiency 30%, Code Style 20%, Edge Cases 10% (tổng 100%).|
 
 **Đầu ra bắt buộc của AI (3 phần):**
 
